@@ -1,0 +1,26 @@
+{
+  "name": "cinteros-webutils",
+  "authors": [
+    "Oliver Praesto <oliver.praesto@cinteros.se>"
+  ],
+  "description": "Test package for bower",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "webutils"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "lodash": "^4.8.2",
+    "moment": "^2.12.0"
+  }
+}
