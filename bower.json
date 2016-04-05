@@ -1,4 +1,5 @@
 {
+  "version": "1.0.1",
   "name": "cinteros-webutils",
   "authors": [
     "Oliver Praesto <oliver.praesto@cinteros.se>"
@@ -18,7 +19,6 @@
     "test",
     "tests"
   ],
-  "version": "1.0.0",
   "dependencies": {
     "lodash": "^4.8.2",
     "moment": "^2.12.0",
