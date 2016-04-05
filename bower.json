@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "0.0.1",
   "name": "cinteros-webutils",
   "authors": [
     "Oliver Praesto <oliver.praesto@cinteros.se>"
@@ -23,6 +23,7 @@
     "lodash": "^4.8.2",
     "moment": "^2.12.0",
     "bootstrap-sass-official": "^3.3.6",
-    "parsleyjs": "^2.3.7"
+    "parsleyjs": "^2.3.7",
+    "select2": "*"
   }
 }
