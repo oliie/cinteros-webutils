@@ -5,7 +5,7 @@
     "Oliver Praesto <oliver.praesto@cinteros.se>"
   ],
   "description": "Test package for bower",
-  "main": "",
+  "main": "README.md",
   "moduleType": [],
   "keywords": [
     "webutils"
